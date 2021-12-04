@@ -1,1 +1,1 @@
-Here there are activits make on PHP, with the goal of improve the knowledge in PHP.
+Here are activities done in PHP in order to improve my knowledge of the language.
